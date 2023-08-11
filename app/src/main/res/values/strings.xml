@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assessment Nimbuzz</string>
+    <string name="enter_the_number_contd">Enter the number of photo repetition to display or leave it empty. By default app displays 25 repetition of photos</string>
+    <string name="got_it">Got it</string>
+    <string name="skip">Skip</string>
+    <string name="storage_permission_is_contd">Storage permission is required to display photos</string>
+    <string name="request_storage_permission">Request storage permission</string>
+    <string name="photo">Photo</string>
+    <string name="get_photos">Get photos</string>
+</resources>
